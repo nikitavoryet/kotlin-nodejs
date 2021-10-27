@@ -1,9 +1,9 @@
-#kotlin-js example
+# kotlin-node example
 
 The project was created to demonstrate the possibility of hybrid use of two technologies. The idea is to write on what you know (javascript) and the ability to get multithreading (kotlin).
 If you are interested in this topic - write to me, maybe I can help you)
 
-##Kotlin [Inst]
+# Kotlin [Inst]
 
 Clone the repository and cd the working directory:
 
