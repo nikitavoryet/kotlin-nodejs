@@ -13,7 +13,7 @@ Clone the repository and cd the working directory:
 Build and run the program:
 
     npm i
-    npm run bild
+    npm run build
     npm run start
 
 
