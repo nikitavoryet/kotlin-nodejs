@@ -1,0 +1,24 @@
+{
+  "name": "kotlin-nodejs",
+  "version": "1.0.0",
+  "description": "test project for use nodejs in kotlin",
+  "main": "index.js",
+  "scripts": {
+    "build": "./gradlew build",
+    "start": "./gradlew run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitavoryet/kotlin-nodejs.git"
+  },
+  "author": "Nikita Vtorushin <n.vtorushin@inbox.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitavoryet/kotlin-nodejs/issues"
+  },
+  "homepage": "https://github.com/nikitavoryet/kotlin-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kotlin": "^1.5.31"
+  }
+}
