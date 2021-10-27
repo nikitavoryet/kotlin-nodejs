@@ -14,7 +14,7 @@ class CryptoController {
     /**
      * @description - Fake method for get data with query params
      */
-    fun generateFakeRate(code: String?): Array<CryptoCurrency> {
+    fun generateFakeRate(code: String? = null): Array<CryptoCurrency> {
         var selected: List<CryptoCurrency>? = null;
         if (code != null) {
             if (code.isNotEmpty()) selected = cryptoCurrencyList.filter{ it.name === code }
