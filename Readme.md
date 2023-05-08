@@ -32,14 +32,6 @@ curl 'http://localhost:3000/getCryptoFakeRate?code=NotFound'
 response: [{"name":"BTC","price":60768.63,"pair":"USD","sign":"$"},{"name":"ETH","price":4210.93,"pair":"USD","sign":"$"}]
 
 ```
-```
-Donate:
-
-    BTC:  192TC7d7ZRYJQbQnAWvMpkccnBNQN1ae6R
-    ETH:  0x7d1082d952f4d584ae2910e14018f4dce7495c74
-    LTC:  MLx6wmFjXfBTKj6JfB5NXaiKjNLeEntRoZ
-    DOGE: DHCjW71EWBzvv43XPXVJc491brcBJXXq88
-```
     author: 
     
     Name:          Nikita
